@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+My name is Alice Sweeting and I currently work as a researcher at [Victoria University](https://www.vu.edu.au/) in Melbourne, Australia.
+
+ 😄 Pronouns: she/ her <br>
+ 👩‍💻 My research focuses on the analysis of team-sport performance, typically captured via wearable sensors, using data mining techniques. <br>
+ 🔭 I’m currently working on creating content for and teaching into our new [Graduate Certificate in Data Analytics for Sport Performance](https://bit.ly/VUGradCertSportData) which is a formal short-course qualification in data science with a unique sports context. <br>
+ 🌱 I’m currently learning how to advance my Shiny knowledge. <br>
+ 💬 Ask me about anything sport science/ analytics and #RStats! <br>
+ 📫 You can reach me via email [here](mailto:Alice.Sweeting@vu.edu.au) <br>
+ ⚡ Fun fact: I grew up riding horses, living and breathing all things 🐎 My life goal(s) were to be an equine vet and compete for Australia in the 3DE at the Olympics! 
+
 <!--
 **SportStatisticsRSweet/sportstatisticsrsweet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
